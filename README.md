@@ -26,3 +26,8 @@ https://lucid.app/lucidchart/569169ad-7b3c-4d8d-8b99-35b9f098086a/edit?invitatio
 
 
 https://www.figma.com/file/r7oncxH6bveK3jfF2iv7OB/SexED?type=design&node-id=0-1&mode=design&t=egUz2zRQvJU5JM12-0
+
+
+# Enlace del video publicado en la plataforma Youtube:
+
+https://youtu.be/03uA4ldRWwY
