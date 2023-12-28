@@ -1,5 +1,5 @@
 # SEXED
-Es una aplicación móvil diseñada para brindar educación sexual de manera accesible y confiable. Nuestro objetivo es proporcionar información precisa y relevante sobre salud sexual y relaciones saludables.
+Es una aplicación móvil diseñada para brindar educación sexual de manera accesible y confiable. Nuestro objetivo es proporcionar información precisa y relevante sobre salud sexual y relaciones saludables haciendo uso de recursos disponibles en línea.
 
 # Características de la aplicación
 + Acceso a contenido educativo sobre temas de educación sexual.
@@ -9,6 +9,7 @@ Es una aplicación móvil diseñada para brindar educación sexual de manera acc
 + Facilitar el acceso a información actualizada y confiable sobre educación sexual.
 + Fomentar una actitud positiva y respetuosa hacia la sexualidad.
 + Proporcionar herramientas interactivas y recursos educativos.
++ Promover el uso de herramientas virtuales para la difusión de la educación sexual.
 + Promover la prevención de embarazos no deseados.
 + Implementar un chatbot.
 
